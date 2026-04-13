@@ -119,7 +119,7 @@ Target variable:
 
 - Jupyter Notebook (`.ipynb`)  
 - Trained Model (`.pkl`)  
-- Dataset: `../assets/heart-disease-classification-logistic-regression/heart_disease_data.csv`  
+- Dataset: [Heart Disease Dataset]( ../assets/heart-disease-classification-logistic-regression/heart_disease_data.csv  )
 
 ---
 
