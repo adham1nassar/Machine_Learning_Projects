@@ -11,3 +11,4 @@ This folder contains all the **datasets, images, and supporting files** used in 
 ## 🔗 Related Projects
 - [Heart Disease Classification — Logistic Regression](../heart-disease-classification-logistic-regression)  
 - [Car Price Prediction — Linear & Ridge Regression](../car-price-prediction-linear-Ridge-regression)  
+- [Classification Model Comparison — Multiple Algorithms](../classification-model-comparison)  

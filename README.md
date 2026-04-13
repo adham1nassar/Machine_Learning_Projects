@@ -29,6 +29,24 @@ This repo contains self-contained machine learning projects (each in its own fol
 * Visualized results using **actual vs predicted comparison plots** to evaluate model performance.
 * Highlighted the impact of **regularization in improving model stability and generalization**.
 
+## 3) Classification Model Comparison — Multiple Algorithms [🔗](/classification-model-comparison)
+
+* Built and compared multiple classification models including:
+  * Logistic Regression  
+  * K-Nearest Neighbors (KNN)  
+  * Decision Tree  
+  * Random Forest  
+  * XGBoost  
+* Performed **data preprocessing and feature preparation** to ensure compatibility across models.
+* Evaluated model performance using:
+  * Accuracy  
+  * Precision  
+  * Recall  
+  * F1-Score  
+  * ROC AUC Score  
+* Compared models using **ROC curves and confusion matrices** for deeper performance analysis.
+* Identified the best-performing model based on overall evaluation metrics and trade-offs.
+
 ---
 
 ### Tools & Techniques (across projects)
