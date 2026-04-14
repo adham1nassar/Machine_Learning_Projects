@@ -63,6 +63,19 @@ This repo contains self-contained machine learning projects (each in its own fol
 * Applied **Grid Search hyperparameter tuning** to improve model performance.
 * Identified the best-performing model based on accuracy and stability across folds.
 
+## 5) Unsupervised Clustering Model Comparison — Multiple Algorithms [🔗](/unsupervised-clustering-model-comparison)
+
+* Applied and compared multiple clustering algorithms including:
+  * KMeans  
+  * DBSCAN  
+  * Agglomerative Clustering (HAC)  
+* Performed **data preprocessing**, including handling null values and scaling to reduce skewness.
+* Evaluated clustering performance using:
+  * Silhouette Score  
+* Used the **Elbow Method** to determine the optimal number of clusters for KMeans.
+* Tuned DBSCAN and HAC parameters to improve clustering performance.
+* Compared clustering approaches to identify the most suitable method based on data structure.
+
 ---
 
 ### Tools & Techniques (across projects)
@@ -72,6 +85,7 @@ This repo contains self-contained machine learning projects (each in its own fol
 * **Data preprocessing & feature engineering**
 * **Model training & evaluation**
 * **Classification & Regression models**
+* **Clustering algorithms**
 * **Feature scaling & encoding**
 * **Model persistence (joblib)**
 * **Hyperparameter tuning (GridSearchCV)**
