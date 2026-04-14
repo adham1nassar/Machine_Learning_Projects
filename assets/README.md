@@ -13,3 +13,4 @@ This folder contains all the **datasets, images, and supporting files** used in 
 - [Car Price Prediction — Linear & Ridge Regression](../car-price-prediction-linear-Ridge-regression)  
 - [Classification Model Comparison — Multiple Algorithms](../classification-model-comparison)  
 - [Regression Model Comparison — Multiple Algorithms](../Regression-model-comparison)
+- [Unsupervised Clustering Model Comparison — Multiple Algorithms](../unsupervised-clustering-model-comparison)
