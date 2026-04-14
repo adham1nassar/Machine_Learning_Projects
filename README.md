@@ -47,14 +47,31 @@ This repo contains self-contained machine learning projects (each in its own fol
 * Compared models using **ROC curves and confusion matrices** for deeper performance analysis.
 * Identified the best-performing model based on overall evaluation metrics and trade-offs.
 
+## 4) Regression Model Comparison — Multiple Algorithms [🔗](/Regression-model-comparison)
+
+* Built and compared multiple regression models including:
+  * Linear Regression  
+  * KNN Regressor  
+  * Decision Tree Regressor  
+  * Random Forest Regressor  
+  * XGBoost Regressor  
+  * Support Vector Regressor (SVR)  
+* Evaluated model performance using:
+  * R² Score  
+  * Cross-validation  
+* Compared models using **actual vs predicted visualizations** and performance metrics.
+* Applied **Grid Search hyperparameter tuning** to improve model performance.
+* Identified the best-performing model based on accuracy and stability across folds.
+
 ---
 
 ### Tools & Techniques (across projects)
 
 * **Python (Pandas, NumPy)**
-* **Machine Learning (scikit-learn)**
+* **Machine Learning (scikit-learn, XGBoost)**
 * **Data preprocessing & feature engineering**
 * **Model training & evaluation**
 * **Classification & Regression models**
 * **Feature scaling & encoding**
 * **Model persistence (joblib)**
+* **Hyperparameter tuning (GridSearchCV)**
